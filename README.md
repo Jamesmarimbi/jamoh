@@ -1,0 +1,2 @@
+# jamoh
+my first repoitory
